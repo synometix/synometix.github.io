@@ -1,6 +1,4 @@
 "use client";
-
-import DNAHelix from "./components/DNAHelix";
 import { useEffect, useState } from "react";
 
 export default function Home() {
